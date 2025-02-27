@@ -22,10 +22,7 @@ This tutorial outlines the steps to observe SSH traffic.<br />
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/a9c3a6e6-3c12-4542-9d0a-797f814db6bb" height="200%" width="200%"
+<img src="https://github.com/user-attachments/assets/53e0d2e9-2a8a-4dde-b19f-48cb49565880" height="200%" width="200%"
   </p>
-<p>  
-<img src="https://github.com/user-attachments/assets/e7b132e6-7482-4f6c-b2bb-7e1fef70928c" height="50%" width="50%"
-</p>
-<p>Find Windows 10 public IP and connect to Windows 10 VM using remote desktop</p>
+<p>Open PowerShell and use an SSH connection to connect to Ubuntu VM</p>
 <br />
