@@ -12,7 +12,6 @@ This tutorial outlines the steps to observe SSH traffic.<br />
 - Remote Desktop
 - Wireshark
 - PowerShell
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
