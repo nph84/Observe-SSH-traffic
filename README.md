@@ -21,7 +21,9 @@ This tutorial outlines the steps to observe SSH traffic.<br />
 <h2>Installation Steps</h2>
 
 <p>
+Open PowerShell and use an SSH connection to connect to Ubuntu VM and observe SSH traffic <br /> <br />
 <img src="https://github.com/user-attachments/assets/849eccd2-4fb7-4fd4-87de-e137b43f0a40" 
-  </p>
-<p>Open PowerShell and use an SSH connection to connect to Ubuntu VM and observe SSH traffic</p>
-<br />
+</p>
+
+  
+
